@@ -13,8 +13,14 @@ Cuento con conocimientos en tecnologías como JavaScript, React, Python, Flask, 
   
 
  <h2>✉️Contacta me:</h2>
-<p dir="auto"><a href="https://github.com/Margumedo">
-  <img src="https://i.ibb.co/3sVvsbq/image.png" alt="github" height="40" style="max-width: 100%;"></a>  <a href="https://www.linkedin.com/in/maicol-argumedo-857407140/" rel="nofollow"><img src="https://ibb.co/T8yt3th" alt="linkedin" height="40" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <a href="https://github.com/Margumedo">
+    <img src="https://i.ibb.co/3sVvsbq/image.png" alt="github" height="40" style="max-width: 100%;">
+  </a>  
+  <a href="https://www.linkedin.com/in/maicol-argumedo-857407140/" rel="nofollow">
+    <img src="https://i.ibb.co/vP9knkz/image-1.png" alt="linkedin" height="40" style="max-width: 100%;">
+  </a>
+</p>
   
   
 <!--
