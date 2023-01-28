@@ -11,7 +11,7 @@ Cuento con conocimientos en tecnologías como JavaScript, React, Python, Flask, 
 - 📫 Ponte en contacto conmigo: margumedo@gmail.com
 - ⚡ Dato divertido: darle clic 10 millones de veces al mouse te hace bajar 1 caloría.
   
-<h2>✉️Contacta me:</h2>
+<h2>✉️ Contacta me:</h2>
 <p dir="auto">
   <a href="https://github.com/Margumedo">
     <img src="https://i.ibb.co/3sVvsbq/image.png" alt="github" height="40" style="max-width: 100%;">
