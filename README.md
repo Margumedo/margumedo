@@ -1,5 +1,6 @@
-### Hola 👋, soy Maicol Argumedo
+### Hola 👋, me llamo Maicol Argumedo
 
+Soy un Full Stack Developer
 <!--
 **Margumedo/margumedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
