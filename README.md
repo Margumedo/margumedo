@@ -1,6 +1,9 @@
 ### Hola 👋, me llamo Maicol Argumedo
 
-Soy un Full Stack Developer
+<h4>Soy un Full Stack Developer<h4/>
+
+<p>Prueba</p>Cuento con conocimientos en tecnologías como JavaScript, React, Python, Flask, API REST. Orientado a ser pragmático, con una mente de resolución de problemas, trabajo en equipo, eficiencia y comprometido a dar los mejores resultados. También soy técnico superior electrónico con experiencia trabajando con tarjetas de desarrollo Arduino, Raspberry Pi y UDOO. Ser capaz de hacer una diferencia en la vida de las personas a través del código es una hazaña para la que me he preparado. Facilidad para trabajar en equipos multidisciplinarios con metodologías ágiles y scrum. Habilidades de liderazgo, organización, mejora continua y comunicación.
+
 <!--
 **Margumedo/margumedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
