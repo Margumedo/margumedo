@@ -4,8 +4,8 @@
 
 <p>Cuento con conocimientos en tecnologías como JavaScript, React, Python, Flask, API REST. Orientado a ser pragmático, con una mente de resolución de problemas, trabajo en equipo, eficiencia y comprometido a dar los mejores resultados. También soy técnico superior electrónico con experiencia trabajando con tarjetas de desarrollo Arduino, Raspberry Pi y UDOO. Ser capaz de hacer una diferencia en la vida de las personas a través del código es una hazaña para la que me he preparado. Facilidad para trabajar en equipos multidisciplinarios con metodologías ágiles y scrum. Habilidades de liderazgo, organización, mejora continua y comunicación.</p>
   
-- 🔭 Actualmente estoy buscando mi primer empleo como Full-Stack.
-- 🌱 Actualmente estoy aprendiendo sobre buenas prácticas de desarrollo.
+- 🔭 Actualmente estoy en mi segundo empleo como Full-Stack.
+- 🌱 Actualmente estoy mejorando sobre buenas prácticas de desarrollo.
 - 👯 Estoy buscando colaborar en proyectos interesantes, significativos y sorprendentes. 
 - 💬 Preguntame sobre fútbol y AC/DC.
 - 📫 Ponte en contacto conmigo: margumedo@gmail.com
